@@ -1,0 +1,3 @@
+[submodule "commitments"]
+	path = commitments
+	url = https://github.com/plammens/commitments-core.git
